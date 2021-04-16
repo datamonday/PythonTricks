@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ca9b410-d1f0-4f9b-b14e-30395a0cc433" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12 制作pip install包/geekzero/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12 制作pip install包/geekzero/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12 制作pip install包/geekzero/demos/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12 制作pip install包/geekzero/geekzero/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12 制作pip install包/geekzero/geekzero/geek.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12 制作pip install包/geekzero/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12 制作pip install包/制作开源pip模块笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 Python闭包与装饰器/.ipynb_checkpoints/Python Decorator-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/04 Python闭包与装饰器/.ipynb_checkpoints/Python Decorator-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="1ca9b410-d1f0-4f9b-b14e-30395a0cc433" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
