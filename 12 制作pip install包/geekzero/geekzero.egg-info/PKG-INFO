@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: geekzero
+Version: 1.0
+Summary: geek life
+Home-page: UNKNOWN
+Author: datamonday
+Author-email: mondaycyb@gmail.com
+License: UNKNOWN
+Description: # geekzero
+        
+        This is an test open source package named geekzero.
+        
+        > Contributer: datamonday
+        > Github Repo: https://github.com/datamonday/PythonTricks
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown

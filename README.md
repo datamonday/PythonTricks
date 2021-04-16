@@ -140,11 +140,9 @@ Reference：[避开这10个坑 自学编程很轻松](https://www.bilibili.com/v
 
 ## 12. 制作 pip install 包
 
-
-
-
-
-
+>  Reference：
+>
+> 1. [制作 pip install 包（video）](https://www.bilibili.com/video/BV17541187de)、[pip install 包（blog）](https://pythonav.com/wiki/detail/6/95/)
 
 ---
 
