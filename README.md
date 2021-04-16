@@ -73,7 +73,7 @@ Reference：[避开这10个坑 自学编程很轻松](https://www.bilibili.com/v
 >
 > 1. [Python小技巧：装饰器(Decorator) （video）](https://www.bilibili.com/video/BV11s411V7Dt?from=search&seid=6784234166068928110)
 > 2. [5句口诀理解记忆Python闭包和装饰器 （video）](https://www.bilibili.com/video/BV1ZJ411y7Te?from=search&seid=6784234166068928110)
-> 3. [彻底学会Python装饰器](https://www.bilibili.com/video/BV1Vv411x7hj?p=4)
+> 3. [彻底学会Python装饰器（video）](https://www.bilibili.com/video/BV1Vv411x7hj?p=4)
 
 ---
 
